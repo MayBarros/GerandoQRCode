@@ -1,2 +1,2 @@
-Gerando QR Codes com a API MessagingToolKit.QRCode.
+#Gerando QRCodes com a biblioteca MessagingToolKit.QRCode.
 Gera o QRCode da URL do site solicitado.
